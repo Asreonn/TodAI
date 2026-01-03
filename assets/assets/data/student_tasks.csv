@@ -1,0 +1,1201 @@
+kimlik,tarih,görev,kategori,saat,dilim,tamam
+1,2024-09-01,proje teslim,akademik,9,sabah,0
+2,2024-09-01,rapor gönder,iş,9,sabah,0
+3,2024-09-01,laboratuvar raporu,akademik,10,sabah,0
+4,2024-09-01,vitamin al,sağlık,10,sabah,1
+5,2024-09-01,laboratuvar raporu,akademik,17,akşam,1
+6,2024-09-02,arkadaşlarla buluş,sosyal,11,sabah,1
+7,2024-09-02,ders çalış,akademik,13,öğle,1
+8,2024-09-02,sohbet,sosyal,15,öğle,1
+9,2024-09-02,fatura öden,kişisel,17,akşam,0
+10,2024-09-02,müşteri arama,iş,23,gece,0
+11,2024-09-03,film gecesi,sosyal,13,öğle,0
+12,2024-09-03,su iç,sağlık,17,akşam,1
+13,2024-09-03,ev düzenle,kişisel,19,akşam,0
+14,2024-09-04,doğum günü,sosyal,9,sabah,0
+15,2024-09-04,kampüs etkinlik,sosyal,12,öğle,0
+16,2024-09-04,salon antrenmanı,spor,12,öğle,0
+17,2024-09-04,yüzme,spor,13,öğle,0
+18,2024-09-04,koşu,spor,13,öğle,0
+19,2024-09-04,planlama toplantısı,iş,14,öğle,1
+20,2024-09-04,market alisveris,kişisel,14,öğle,0
+21,2024-09-04,dinlenme,sağlık,18,akşam,1
+22,2024-09-05,evrak düzenle,kişisel,8,sabah,1
+23,2024-09-05,sohbet,sosyal,12,öğle,1
+24,2024-09-05,kahve ic,mola,13,öğle,1
+25,2024-09-05,kafe buluşma,sosyal,13,öğle,1
+26,2024-09-05,oda temizlik,kişisel,15,öğle,0
+27,2024-09-05,antrenman,spor,15,öğle,1
+28,2024-09-05,sınav hazırlık,akademik,16,öğle,0
+29,2024-09-05,bisiklet,spor,18,akşam,1
+30,2024-09-06,kulüp etkinliği,sosyal,20,akşam,0
+31,2024-09-06,kampüs etkinlik,sosyal,23,gece,0
+32,2024-09-07,proje teslim,akademik,6,sabah,0
+33,2024-09-07,kısa yürüyüş,mola,19,akşam,1
+34,2024-09-07,kulüp etkinliği,sosyal,19,akşam,1
+35,2024-09-08,eposta cevapla,iş,15,öğle,1
+36,2024-09-08,market alisveris,kişisel,15,öğle,1
+37,2024-09-08,vardiya,iş,16,öğle,1
+38,2024-09-08,nefes egzersizi,mola,18,akşam,1
+39,2024-09-09,oda temizlik,kişisel,10,sabah,1
+40,2024-09-09,sunum hazırla,akademik,12,öğle,0
+41,2024-09-09,ev düzenle,kişisel,12,öğle,1
+42,2024-09-09,koşu,spor,12,öğle,0
+43,2024-09-09,ödev bitir,akademik,14,öğle,1
+44,2024-09-09,antrenman,spor,14,öğle,1
+45,2024-09-09,kütüphane,akademik,17,akşam,1
+46,2024-09-09,ilaç al,sağlık,18,akşam,0
+47,2024-09-10,staj görevi,iş,14,öğle,1
+48,2024-09-10,staj görevi,iş,14,öğle,1
+49,2024-09-10,rapor gönder,iş,15,öğle,1
+50,2024-09-10,kütüphane,akademik,16,öğle,1
+51,2024-09-10,salon antrenmanı,spor,16,öğle,1
+52,2024-09-10,kafe buluşma,sosyal,18,akşam,1
+53,2024-09-10,kafe buluşma,sosyal,19,akşam,1
+54,2024-09-10,antrenman,spor,20,akşam,1
+55,2024-09-11,staj görevi,iş,13,öğle,1
+56,2024-09-11,sınav hazırlık,akademik,14,öğle,0
+57,2024-09-11,okuma ödev,akademik,15,öğle,0
+58,2024-09-12,ders çalış,akademik,11,sabah,1
+59,2024-09-12,su iç,sağlık,15,öğle,0
+60,2024-09-12,koşu,spor,17,akşam,1
+61,2024-09-12,kütüphane,akademik,18,akşam,0
+62,2024-09-12,kafe buluşma,sosyal,18,akşam,1
+63,2024-09-12,planlama toplantısı,iş,19,akşam,1
+64,2024-09-13,çay molası,mola,10,sabah,1
+65,2024-09-13,doktor randevu,sağlık,11,sabah,1
+66,2024-09-13,kampüs etkinlik,sosyal,11,sabah,0
+67,2024-09-13,okuma ödev,akademik,12,öğle,0
+68,2024-09-13,video izle,eğlence,12,öğle,1
+69,2024-09-13,vardiya,iş,12,öğle,0
+70,2024-09-13,ders çalış,akademik,15,öğle,1
+71,2024-09-13,su iç,sağlık,16,öğle,0
+72,2024-09-13,arkadaşlarla buluş,sosyal,16,öğle,0
+73,2024-09-13,yoga,spor,16,öğle,1
+74,2024-09-13,yürüyüş,spor,18,akşam,1
+75,2024-09-13,kontrol,sağlık,20,akşam,0
+76,2024-09-14,kafe molası,mola,9,sabah,1
+77,2024-09-14,kütüphane,akademik,16,öğle,1
+78,2024-09-14,yoga,spor,16,öğle,1
+79,2024-09-14,sunum hazırla,akademik,19,akşam,1
+80,2024-09-14,okuma ödev,akademik,19,akşam,1
+81,2024-09-14,kafe molası,mola,21,akşam,0
+82,2024-09-15,bisiklet,spor,8,sabah,1
+83,2024-09-15,toplantı,iş,11,sabah,1
+84,2024-09-15,doküman güncelle,iş,14,öğle,1
+85,2024-09-15,kafe buluşma,sosyal,15,öğle,0
+86,2024-09-15,salon antrenmanı,spor,17,akşam,1
+87,2024-09-15,planlama toplantısı,iş,19,akşam,1
+88,2024-09-16,oda temizlik,kişisel,9,sabah,0
+89,2024-09-16,not tekrar,akademik,14,öğle,1
+90,2024-09-16,not tekrar,akademik,17,akşam,1
+91,2024-09-16,kahve ic,mola,18,akşam,1
+92,2024-09-16,bisiklet,spor,20,akşam,1
+93,2024-09-17,bisiklet,spor,16,öğle,1
+94,2024-09-17,bisiklet,spor,16,öğle,1
+95,2024-09-17,laboratuvar raporu,akademik,17,akşam,1
+96,2024-09-17,bisiklet,spor,20,akşam,0
+97,2024-09-18,rapor gönder,iş,9,sabah,0
+98,2024-09-18,laboratuvar raporu,akademik,10,sabah,0
+99,2024-09-18,doküman güncelle,iş,10,sabah,0
+100,2024-09-18,film gecesi,sosyal,12,öğle,1
+101,2024-09-18,dolap toplama,kişisel,14,öğle,0
+102,2024-09-18,kampüs etkinlik,sosyal,14,öğle,0
+103,2024-09-18,su iç,sağlık,15,öğle,1
+104,2024-09-18,toplantı,iş,18,akşam,0
+105,2024-09-18,antrenman,spor,19,akşam,1
+106,2024-09-19,kahve ic,mola,10,sabah,1
+107,2024-09-19,ev düzenle,kişisel,12,öğle,1
+108,2024-09-19,salon antrenmanı,spor,12,öğle,1
+109,2024-09-19,su iç,sağlık,13,öğle,0
+110,2024-09-19,ev düzenle,kişisel,14,öğle,0
+111,2024-09-19,laboratuvar raporu,akademik,15,öğle,1
+112,2024-09-19,ilaç al,sağlık,15,öğle,1
+113,2024-09-19,kulüp etkinliği,sosyal,15,öğle,1
+114,2024-09-19,sınav hazırlık,akademik,16,öğle,0
+115,2024-09-20,kısa yürüyüş,mola,10,sabah,1
+116,2024-09-20,yoga,spor,10,sabah,1
+117,2024-09-20,evrak düzenle,kişisel,13,öğle,0
+118,2024-09-20,salon antrenmanı,spor,14,öğle,1
+119,2024-09-20,vardiya,iş,15,öğle,1
+120,2024-09-20,not tekrar,akademik,16,öğle,1
+121,2024-09-20,müşteri arama,iş,16,öğle,1
+122,2024-09-20,dolap toplama,kişisel,16,öğle,1
+123,2024-09-20,antrenman,spor,17,akşam,1
+124,2024-09-21,vitamin al,sağlık,11,sabah,1
+125,2024-09-21,su iç,sağlık,11,sabah,1
+126,2024-09-21,evrak düzenle,kişisel,14,öğle,1
+127,2024-09-21,proje teslim,akademik,17,akşam,0
+128,2024-09-21,gezinti,sosyal,22,gece,0
+129,2024-09-22,kampüs etkinlik,sosyal,8,sabah,1
+130,2024-09-22,not tekrar,akademik,10,sabah,1
+131,2024-09-22,kulüp etkinliği,sosyal,10,sabah,1
+132,2024-09-22,çamaşır yıka,kişisel,14,öğle,1
+133,2024-09-22,oda temizlik,kişisel,14,öğle,1
+134,2024-09-22,yürüyüş,spor,15,öğle,1
+135,2024-09-22,sunum hazırla,akademik,16,öğle,1
+136,2024-09-23,staj görevi,iş,11,sabah,0
+137,2024-09-23,fatura öden,kişisel,11,sabah,1
+138,2024-09-23,okuma ödev,akademik,12,öğle,1
+139,2024-09-23,yürüyüş,spor,12,öğle,1
+140,2024-09-23,arkadaşlarla buluş,sosyal,14,öğle,1
+141,2024-09-23,çay molası,mola,16,öğle,1
+142,2024-09-23,nefes egzersizi,mola,17,akşam,1
+143,2024-09-24,sınav hazırlık,akademik,10,sabah,1
+144,2024-09-24,mini oyun,eğlence,12,öğle,1
+145,2024-09-24,sunum hazırla,akademik,15,öğle,0
+146,2024-09-24,arkadaşlarla buluş,sosyal,15,öğle,0
+147,2024-09-24,eposta cevapla,iş,16,öğle,1
+148,2024-09-24,ilaç al,sağlık,16,öğle,0
+149,2024-09-24,sohbet,sosyal,16,öğle,1
+150,2024-09-24,yüzme,spor,19,akşam,1
+151,2024-09-25,vardiya,iş,15,öğle,1
+152,2024-09-25,kafe buluşma,sosyal,16,öğle,1
+153,2024-09-25,sınav hazırlık,akademik,17,akşam,1
+154,2024-09-25,oyun oynama,eğlence,17,akşam,0
+155,2024-09-26,doküman güncelle,iş,8,sabah,0
+156,2024-09-26,not tekrar,akademik,11,sabah,0
+157,2024-09-26,doküman güncelle,iş,11,sabah,0
+158,2024-09-26,vitamin al,sağlık,12,öğle,1
+159,2024-09-26,gezinti,sosyal,15,öğle,1
+160,2024-09-26,yüzme,spor,16,öğle,0
+161,2024-09-26,çay molası,mola,18,akşam,1
+162,2024-09-26,film gecesi,sosyal,22,gece,0
+163,2024-09-27,bisiklet,spor,10,sabah,1
+164,2024-09-27,kütüphane,akademik,14,öğle,1
+165,2024-09-27,video izle,eğlence,16,öğle,1
+166,2024-09-27,koşu,spor,17,akşam,1
+167,2024-09-27,koşu,spor,18,akşam,1
+168,2024-09-27,kampüs etkinlik,sosyal,19,akşam,1
+169,2024-09-28,arkadaşlarla buluş,sosyal,9,sabah,1
+170,2024-09-28,erken uyku,sağlık,12,öğle,1
+171,2024-09-28,not tekrar,akademik,13,öğle,1
+172,2024-09-28,okuma ödev,akademik,13,öğle,1
+173,2024-09-28,sunum hazırla,akademik,13,öğle,1
+174,2024-09-28,ödev bitir,akademik,15,öğle,1
+175,2024-09-28,ödev bitir,akademik,15,öğle,1
+176,2024-09-28,arkadaşlarla buluş,sosyal,17,akşam,1
+177,2024-09-28,erken uyku,sağlık,18,akşam,1
+178,2024-09-29,doğum günü,sosyal,12,öğle,1
+179,2024-09-29,bisiklet,spor,14,öğle,1
+180,2024-09-29,kısa mola,mola,15,öğle,1
+181,2024-09-29,gezinti,sosyal,15,öğle,1
+182,2024-09-29,antrenman,spor,15,öğle,1
+183,2024-09-29,gezinti,sosyal,17,akşam,0
+184,2024-09-29,koşu,spor,20,akşam,1
+185,2024-09-30,vitamin al,sağlık,8,sabah,1
+186,2024-09-30,staj görevi,iş,9,sabah,1
+187,2024-09-30,staj görevi,iş,11,sabah,1
+188,2024-09-30,eposta cevapla,iş,11,sabah,0
+189,2024-09-30,laboratuvar raporu,akademik,13,öğle,0
+190,2024-09-30,okuma ödev,akademik,13,öğle,1
+191,2024-09-30,not tekrar,akademik,15,öğle,0
+192,2024-09-30,eposta cevapla,iş,15,öğle,0
+193,2024-09-30,okuma ödev,akademik,16,öğle,0
+194,2024-09-30,sınav hazırlık,akademik,20,akşam,0
+195,2024-10-01,evrak düzenle,kişisel,12,öğle,1
+196,2024-10-01,film gecesi,sosyal,12,öğle,1
+197,2024-10-01,müşteri arama,iş,14,öğle,1
+198,2024-10-01,vardiya,iş,15,öğle,0
+199,2024-10-01,salon antrenmanı,spor,15,öğle,1
+200,2024-10-01,not tekrar,akademik,16,öğle,0
+201,2024-10-02,erken uyku,sağlık,7,sabah,0
+202,2024-10-02,su iç,sağlık,12,öğle,1
+203,2024-10-02,mini oyun,eğlence,15,öğle,1
+204,2024-10-02,antrenman,spor,16,öğle,1
+205,2024-10-02,sınav hazırlık,akademik,20,akşam,0
+206,2024-10-02,kontrol,sağlık,20,akşam,0
+207,2024-10-03,koşu,spor,10,sabah,1
+208,2024-10-03,not tekrar,akademik,15,öğle,1
+209,2024-10-03,dizi izle,eğlence,15,öğle,1
+210,2024-10-03,doküman güncelle,iş,15,öğle,0
+211,2024-10-03,esneme,spor,15,öğle,1
+212,2024-10-03,kısa mola,mola,16,öğle,1
+213,2024-10-03,yüzme,spor,17,akşam,1
+214,2024-10-03,arkadaşlarla buluş,sosyal,18,akşam,1
+215,2024-10-04,film gecesi,sosyal,6,sabah,1
+216,2024-10-04,ödev bitir,akademik,11,sabah,1
+217,2024-10-04,not tekrar,akademik,12,öğle,1
+218,2024-10-04,çamaşır yıka,kişisel,13,öğle,0
+219,2024-10-04,yürüyüş,spor,13,öğle,1
+220,2024-10-04,kahve ic,mola,15,öğle,1
+221,2024-10-04,bisiklet,spor,15,öğle,1
+222,2024-10-04,sunum hazırla,akademik,16,öğle,1
+223,2024-10-04,çamaşır yıka,kişisel,16,öğle,1
+224,2024-10-04,çay molası,mola,18,akşam,1
+225,2024-10-05,okuma ödev,akademik,10,sabah,0
+226,2024-10-05,kütüphane,akademik,13,öğle,1
+227,2024-10-05,sunum hazırla,akademik,14,öğle,1
+228,2024-10-05,gezinti,sosyal,15,öğle,1
+229,2024-10-05,proje teslim,akademik,19,akşam,1
+230,2024-10-05,koşu,spor,19,akşam,0
+231,2024-10-06,rapor gönder,iş,9,sabah,1
+232,2024-10-06,eposta cevapla,iş,11,sabah,1
+233,2024-10-06,arkadaşlarla buluş,sosyal,11,sabah,1
+234,2024-10-06,proje teslim,akademik,12,öğle,1
+235,2024-10-06,antrenman,spor,12,öğle,1
+236,2024-10-06,arkadaşlarla buluş,sosyal,14,öğle,1
+237,2024-10-06,sunum hazırla,akademik,16,öğle,1
+238,2024-10-06,sohbet,sosyal,16,öğle,1
+239,2024-10-06,yüzme,spor,16,öğle,1
+240,2024-10-06,kampüs etkinlik,sosyal,21,akşam,1
+241,2024-10-07,toplantı,iş,11,sabah,1
+242,2024-10-07,vitamin al,sağlık,12,öğle,1
+243,2024-10-07,oyun oynama,eğlence,14,öğle,1
+244,2024-10-07,kampüs etkinlik,sosyal,15,öğle,0
+245,2024-10-07,evrak düzenle,kişisel,16,öğle,1
+246,2024-10-07,koşu,spor,16,öğle,1
+247,2024-10-07,video izle,eğlence,20,akşam,1
+248,2024-10-07,salon antrenmanı,spor,20,akşam,1
+249,2024-10-07,arkadaşlarla buluş,sosyal,21,akşam,1
+250,2024-10-08,ev düzenle,kişisel,8,sabah,1
+251,2024-10-08,kulüp etkinliği,sosyal,8,sabah,0
+252,2024-10-08,kütüphane,akademik,11,sabah,0
+253,2024-10-08,dinlenme,sağlık,12,öğle,1
+254,2024-10-08,banka işi,kişisel,13,öğle,0
+255,2024-10-08,okuma ödev,akademik,14,öğle,0
+256,2024-10-08,proje teslim,akademik,14,öğle,1
+257,2024-10-08,proje teslim,akademik,15,öğle,0
+258,2024-10-08,banka işi,kişisel,15,öğle,0
+259,2024-10-09,kafe buluşma,sosyal,6,sabah,1
+260,2024-10-09,eposta cevapla,iş,7,sabah,1
+261,2024-10-09,staj görevi,iş,9,sabah,1
+262,2024-10-09,çay molası,mola,11,sabah,1
+263,2024-10-09,salon antrenmanı,spor,14,öğle,1
+264,2024-10-09,laboratuvar raporu,akademik,15,öğle,1
+265,2024-10-09,dizi izle,eğlence,16,öğle,1
+266,2024-10-09,yüzme,spor,18,akşam,1
+267,2024-10-09,gezinti,sosyal,20,akşam,1
+268,2024-10-10,kütüphane,akademik,12,öğle,0
+269,2024-10-10,film gecesi,sosyal,13,öğle,1
+270,2024-10-10,laboratuvar raporu,akademik,14,öğle,1
+271,2024-10-10,kampüs etkinlik,sosyal,17,akşam,1
+272,2024-10-10,vitamin al,sağlık,18,akşam,0
+273,2024-10-10,esneme,spor,20,akşam,1
+274,2024-10-11,okuma ödev,akademik,9,sabah,1
+275,2024-10-11,ders çalış,akademik,10,sabah,1
+276,2024-10-11,fatura öden,kişisel,10,sabah,1
+277,2024-10-11,banka işi,kişisel,10,sabah,0
+278,2024-10-11,ders çalış,akademik,11,sabah,1
+279,2024-10-11,sosyal medya,eğlence,11,sabah,1
+280,2024-10-11,kampüs etkinlik,sosyal,12,öğle,0
+281,2024-10-11,gezinti,sosyal,13,öğle,1
+282,2024-10-11,arkadaşlarla buluş,sosyal,19,akşam,1
+283,2024-10-12,eposta cevapla,iş,12,öğle,1
+284,2024-10-12,doküman güncelle,iş,12,öğle,1
+285,2024-10-12,ilaç al,sağlık,14,öğle,1
+286,2024-10-12,yürüyüş,spor,15,öğle,1
+287,2024-10-12,kafe buluşma,sosyal,16,öğle,1
+288,2024-10-12,kulüp etkinliği,sosyal,18,akşam,0
+289,2024-10-12,fatura öden,kişisel,20,akşam,0
+290,2024-10-13,kısa mola,mola,13,öğle,0
+291,2024-10-13,ders çalış,akademik,14,öğle,0
+292,2024-10-13,su iç,sağlık,15,öğle,0
+293,2024-10-13,antrenman,spor,16,öğle,1
+294,2024-10-13,not tekrar,akademik,17,akşam,0
+295,2024-10-13,planlama toplantısı,iş,18,akşam,1
+296,2024-10-14,proje teslim,akademik,10,sabah,0
+297,2024-10-14,sohbet,sosyal,14,öğle,1
+298,2024-10-14,sunum hazırla,akademik,15,öğle,1
+299,2024-10-14,nefes egzersizi,mola,15,öğle,1
+300,2024-10-14,okuma ödev,akademik,16,öğle,1
+301,2024-10-14,doküman güncelle,iş,16,öğle,1
+302,2024-10-14,gezinti,sosyal,19,akşam,1
+303,2024-10-15,yoga,spor,9,sabah,1
+304,2024-10-15,laboratuvar raporu,akademik,10,sabah,0
+305,2024-10-15,dinlenme,sağlık,12,öğle,1
+306,2024-10-15,erken uyku,sağlık,13,öğle,0
+307,2024-10-15,oda temizlik,kişisel,14,öğle,0
+308,2024-10-15,ders çalış,akademik,16,öğle,1
+309,2024-10-15,sunum hazırla,akademik,16,öğle,0
+310,2024-10-15,evrak düzenle,kişisel,16,öğle,1
+311,2024-10-15,erken uyku,sağlık,17,akşam,1
+312,2024-10-15,doktor randevu,sağlık,19,akşam,1
+313,2024-10-15,yürüyüş,spor,21,akşam,0
+314,2024-10-16,kafe buluşma,sosyal,9,sabah,0
+315,2024-10-16,ilaç al,sağlık,10,sabah,0
+316,2024-10-16,salon antrenmanı,spor,10,sabah,1
+317,2024-10-16,müzik dinle,eğlence,11,sabah,0
+318,2024-10-16,müzik dinle,eğlence,12,öğle,1
+319,2024-10-16,gezinti,sosyal,12,öğle,1
+320,2024-10-16,ders çalış,akademik,16,öğle,1
+321,2024-10-16,planlama toplantısı,iş,17,akşam,1
+322,2024-10-16,kütüphane,akademik,19,akşam,0
+323,2024-10-16,rapor gönder,iş,19,akşam,0
+324,2024-10-16,doktor randevu,sağlık,19,akşam,0
+325,2024-10-17,evrak düzenle,kişisel,9,sabah,1
+326,2024-10-17,proje teslim,akademik,14,öğle,1
+327,2024-10-17,eposta cevapla,iş,16,öğle,0
+328,2024-10-17,erken uyku,sağlık,18,akşam,1
+329,2024-10-18,gezinti,sosyal,11,sabah,1
+330,2024-10-18,kulüp etkinliği,sosyal,21,akşam,1
+331,2024-10-18,yürüyüş,spor,21,akşam,1
+332,2024-10-19,proje teslim,akademik,8,sabah,1
+333,2024-10-19,ödev bitir,akademik,15,öğle,1
+334,2024-10-19,ilaç al,sağlık,19,akşam,1
+335,2024-10-20,antrenman,spor,7,sabah,0
+336,2024-10-20,kütüphane,akademik,10,sabah,1
+337,2024-10-20,müşteri arama,iş,10,sabah,1
+338,2024-10-20,kulüp etkinliği,sosyal,10,sabah,1
+339,2024-10-20,nefes egzersizi,mola,11,sabah,1
+340,2024-10-20,video izle,eğlence,13,öğle,1
+341,2024-10-20,fatura öden,kişisel,14,öğle,0
+342,2024-10-20,fatura öden,kişisel,16,öğle,1
+343,2024-10-21,nefes egzersizi,mola,11,sabah,1
+344,2024-10-21,mini oyun,eğlence,14,öğle,1
+345,2024-10-21,kontrol,sağlık,16,öğle,1
+346,2024-10-21,salon antrenmanı,spor,16,öğle,1
+347,2024-10-22,okuma ödev,akademik,10,sabah,0
+348,2024-10-22,okuma ödev,akademik,11,sabah,1
+349,2024-10-22,proje teslim,akademik,13,öğle,0
+350,2024-10-22,kısa yürüyüş,mola,14,öğle,1
+351,2024-10-22,sınav hazırlık,akademik,15,öğle,1
+352,2024-10-22,kulüp etkinliği,sosyal,16,öğle,1
+353,2024-10-22,salon antrenmanı,spor,17,akşam,1
+354,2024-10-22,sunum hazırla,akademik,18,akşam,1
+355,2024-10-22,fatura öden,kişisel,20,akşam,0
+356,2024-10-23,kütüphane,akademik,11,sabah,1
+357,2024-10-23,sınav hazırlık,akademik,13,öğle,1
+358,2024-10-23,kontrol,sağlık,13,öğle,0
+359,2024-10-23,kafe buluşma,sosyal,14,öğle,1
+360,2024-10-23,laboratuvar raporu,akademik,16,öğle,1
+361,2024-10-24,planlama toplantısı,iş,10,sabah,1
+362,2024-10-24,vitamin al,sağlık,10,sabah,0
+363,2024-10-24,esneme,spor,11,sabah,1
+364,2024-10-24,market alisveris,kişisel,12,öğle,0
+365,2024-10-24,sunum hazırla,akademik,14,öğle,1
+366,2024-10-24,ödev bitir,akademik,15,öğle,0
+367,2024-10-24,kulüp etkinliği,sosyal,16,öğle,1
+368,2024-10-24,ders çalış,akademik,18,akşam,0
+369,2024-10-24,mini oyun,eğlence,18,akşam,1
+370,2024-10-24,kampüs etkinlik,sosyal,21,akşam,0
+371,2024-10-25,sohbet,sosyal,10,sabah,0
+372,2024-10-25,film gecesi,sosyal,10,sabah,1
+373,2024-10-25,planlama toplantısı,iş,11,sabah,1
+374,2024-10-25,bisiklet,spor,14,öğle,0
+375,2024-10-25,not tekrar,akademik,19,akşam,0
+376,2024-10-25,vardiya,iş,20,akşam,0
+377,2024-10-26,kütüphane,akademik,9,sabah,0
+378,2024-10-26,yürüyüş,spor,13,öğle,0
+379,2024-10-26,proje teslim,akademik,15,öğle,0
+380,2024-10-26,okuma ödev,akademik,16,öğle,0
+381,2024-10-26,dizi izle,eğlence,17,akşam,1
+382,2024-10-26,kısa yürüyüş,mola,17,akşam,1
+383,2024-10-26,dolap toplama,kişisel,18,akşam,0
+384,2024-10-26,proje teslim,akademik,20,akşam,0
+385,2024-10-27,müşteri arama,iş,7,sabah,0
+386,2024-10-27,doktor randevu,sağlık,9,sabah,1
+387,2024-10-27,yoga,spor,10,sabah,1
+388,2024-10-27,bisiklet,spor,12,öğle,1
+389,2024-10-27,dizi izle,eğlence,13,öğle,0
+390,2024-10-27,dolap toplama,kişisel,14,öğle,0
+391,2024-10-27,dolap toplama,kişisel,16,öğle,1
+392,2024-10-28,evrak düzenle,kişisel,11,sabah,0
+393,2024-10-28,müzik dinle,eğlence,12,öğle,0
+394,2024-10-28,oyun oynama,eğlence,13,öğle,0
+395,2024-10-28,kısa mola,mola,13,öğle,1
+396,2024-10-28,kütüphane,akademik,14,öğle,0
+397,2024-10-28,çay molası,mola,14,öğle,1
+398,2024-10-28,fatura öden,kişisel,15,öğle,0
+399,2024-10-28,arkadaşlarla buluş,sosyal,16,öğle,1
+400,2024-10-28,kafe molası,mola,17,akşam,1
+401,2024-10-28,okuma ödev,akademik,19,akşam,0
+402,2024-10-28,doğum günü,sosyal,23,gece,0
+403,2024-10-29,okuma ödev,akademik,8,sabah,0
+404,2024-10-29,nefes egzersizi,mola,9,sabah,1
+405,2024-10-29,dolap toplama,kişisel,13,öğle,1
+406,2024-10-29,vitamin al,sağlık,13,öğle,1
+407,2024-10-29,kütüphane,akademik,15,öğle,0
+408,2024-10-29,laboratuvar raporu,akademik,15,öğle,0
+409,2024-10-29,ders çalış,akademik,16,öğle,1
+410,2024-10-29,eposta cevapla,iş,16,öğle,1
+411,2024-10-29,oda temizlik,kişisel,16,öğle,1
+412,2024-10-29,kafe molası,mola,16,öğle,0
+413,2024-10-29,koşu,spor,17,akşam,1
+414,2024-10-29,oda temizlik,kişisel,19,akşam,0
+415,2024-10-29,dinlenme,sağlık,19,akşam,0
+416,2024-10-29,salon antrenmanı,spor,22,gece,1
+417,2024-10-30,kısa mola,mola,9,sabah,1
+418,2024-10-30,sosyal medya,eğlence,15,öğle,0
+419,2024-10-31,kafe molası,mola,7,sabah,1
+420,2024-10-31,ödev bitir,akademik,10,sabah,1
+421,2024-10-31,okuma ödev,akademik,12,öğle,1
+422,2024-10-31,banka işi,kişisel,12,öğle,0
+423,2024-10-31,doküman güncelle,iş,13,öğle,1
+424,2024-10-31,kulüp etkinliği,sosyal,16,öğle,1
+425,2024-10-31,doğum günü,sosyal,17,akşam,1
+426,2024-10-31,yürüyüş,spor,19,akşam,1
+427,2024-11-01,kütüphane,akademik,12,öğle,1
+428,2024-11-01,staj görevi,iş,13,öğle,0
+429,2024-11-01,dolap toplama,kişisel,16,öğle,0
+430,2024-11-01,staj görevi,iş,17,akşam,1
+431,2024-11-01,salon antrenmanı,spor,18,akşam,0
+432,2024-11-02,ders çalış,akademik,8,sabah,0
+433,2024-11-02,kampüs etkinlik,sosyal,8,sabah,1
+434,2024-11-02,antrenman,spor,10,sabah,1
+435,2024-11-02,staj görevi,iş,13,öğle,0
+436,2024-11-02,planlama toplantısı,iş,14,öğle,0
+437,2024-11-02,çay molası,mola,15,öğle,0
+438,2024-11-02,ders çalış,akademik,18,akşam,1
+439,2024-11-02,ders çalış,akademik,18,akşam,1
+440,2024-11-02,market alisveris,kişisel,18,akşam,1
+441,2024-11-02,ders çalış,akademik,19,akşam,0
+442,2024-11-02,salon antrenmanı,spor,19,akşam,1
+443,2024-11-03,yoga,spor,7,sabah,0
+444,2024-11-03,evrak düzenle,kişisel,11,sabah,0
+445,2024-11-03,esneme,spor,13,öğle,0
+446,2024-11-03,banka işi,kişisel,14,öğle,0
+447,2024-11-03,dolap toplama,kişisel,15,öğle,0
+448,2024-11-03,market alisveris,kişisel,16,öğle,1
+449,2024-11-04,sunum hazırla,akademik,9,sabah,0
+450,2024-11-04,nefes egzersizi,mola,10,sabah,1
+451,2024-11-04,ilaç al,sağlık,10,sabah,0
+452,2024-11-04,eposta cevapla,iş,11,sabah,1
+453,2024-11-04,kulüp etkinliği,sosyal,12,öğle,1
+454,2024-11-04,not tekrar,akademik,13,öğle,0
+455,2024-11-04,sunum hazırla,akademik,13,öğle,0
+456,2024-11-04,oda temizlik,kişisel,17,akşam,0
+457,2024-11-04,çay molası,mola,18,akşam,1
+458,2024-11-04,kafe molası,mola,19,akşam,1
+459,2024-11-04,planlama toplantısı,iş,22,gece,1
+460,2024-11-05,oda temizlik,kişisel,16,öğle,0
+461,2024-11-05,su iç,sağlık,16,öğle,0
+462,2024-11-06,proje teslim,akademik,12,öğle,1
+463,2024-11-06,yürüyüş,spor,12,öğle,1
+464,2024-11-06,kütüphane,akademik,13,öğle,0
+465,2024-11-06,ders çalış,akademik,14,öğle,1
+466,2024-11-06,yüzme,spor,15,öğle,1
+467,2024-11-06,müzik dinle,eğlence,16,öğle,1
+468,2024-11-06,banka işi,kişisel,16,öğle,0
+469,2024-11-06,doktor randevu,sağlık,17,akşam,0
+470,2024-11-07,staj görevi,iş,12,öğle,1
+471,2024-11-07,banka işi,kişisel,14,öğle,0
+472,2024-11-07,salon antrenmanı,spor,14,öğle,1
+473,2024-11-07,laboratuvar raporu,akademik,16,öğle,1
+474,2024-11-07,kafe buluşma,sosyal,21,akşam,1
+475,2024-11-08,çamaşır yıka,kişisel,10,sabah,0
+476,2024-11-08,ders çalış,akademik,11,sabah,1
+477,2024-11-08,oda temizlik,kişisel,11,sabah,0
+478,2024-11-08,müzik dinle,eğlence,14,öğle,1
+479,2024-11-08,laboratuvar raporu,akademik,16,öğle,0
+480,2024-11-08,yoga,spor,20,akşam,1
+481,2024-11-08,kütüphane,akademik,21,akşam,1
+482,2024-11-09,mini oyun,eğlence,9,sabah,1
+483,2024-11-09,sohbet,sosyal,13,öğle,1
+484,2024-11-09,toplantı,iş,16,öğle,1
+485,2024-11-09,salon antrenmanı,spor,16,öğle,1
+486,2024-11-09,ders çalış,akademik,17,akşam,0
+487,2024-11-09,gezinti,sosyal,17,akşam,0
+488,2024-11-09,sınav hazırlık,akademik,19,akşam,1
+489,2024-11-10,antrenman,spor,10,sabah,1
+490,2024-11-10,proje teslim,akademik,11,sabah,0
+491,2024-11-10,kütüphane,akademik,14,öğle,1
+492,2024-11-10,toplantı,iş,15,öğle,1
+493,2024-11-10,kafe molası,mola,15,öğle,1
+494,2024-11-10,ders çalış,akademik,18,akşam,0
+495,2024-11-11,eposta cevapla,iş,10,sabah,1
+496,2024-11-11,evrak düzenle,kişisel,10,sabah,1
+497,2024-11-11,çay molası,mola,10,sabah,1
+498,2024-11-11,gezinti,sosyal,11,sabah,0
+499,2024-11-11,proje teslim,akademik,12,öğle,0
+500,2024-11-11,dolap toplama,kişisel,12,öğle,0
+501,2024-11-11,okuma ödev,akademik,14,öğle,0
+502,2024-11-11,sunum hazırla,akademik,15,öğle,1
+503,2024-11-11,ders çalış,akademik,15,öğle,1
+504,2024-11-11,su iç,sağlık,19,akşam,0
+505,2024-11-12,film gecesi,sosyal,7,sabah,1
+506,2024-11-12,doğum günü,sosyal,10,sabah,1
+507,2024-11-12,müşteri arama,iş,11,sabah,1
+508,2024-11-12,staj görevi,iş,13,öğle,1
+509,2024-11-12,laboratuvar raporu,akademik,14,öğle,1
+510,2024-11-12,oda temizlik,kişisel,14,öğle,1
+511,2024-11-12,vitamin al,sağlık,14,öğle,1
+512,2024-11-12,kütüphane,akademik,15,öğle,1
+513,2024-11-12,çamaşır yıka,kişisel,15,öğle,1
+514,2024-11-12,koşu,spor,18,akşam,1
+515,2024-11-13,sunum hazırla,akademik,11,sabah,1
+516,2024-11-13,sınav hazırlık,akademik,12,öğle,0
+517,2024-11-13,müşteri arama,iş,14,öğle,1
+518,2024-11-13,planlama toplantısı,iş,15,öğle,1
+519,2024-11-13,müşteri arama,iş,18,akşam,1
+520,2024-11-13,salon antrenmanı,spor,18,akşam,1
+521,2024-11-13,sohbet,sosyal,19,akşam,1
+522,2024-11-13,sunum hazırla,akademik,20,akşam,1
+523,2024-11-14,fatura öden,kişisel,8,sabah,0
+524,2024-11-14,video izle,eğlence,10,sabah,1
+525,2024-11-14,sınav hazırlık,akademik,13,öğle,1
+526,2024-11-14,gezinti,sosyal,15,öğle,1
+527,2024-11-14,kafe buluşma,sosyal,15,öğle,1
+528,2024-11-14,bisiklet,spor,15,öğle,1
+529,2024-11-14,sınav hazırlık,akademik,18,akşam,1
+530,2024-11-14,kütüphane,akademik,18,akşam,1
+531,2024-11-14,müzik dinle,eğlence,18,akşam,1
+532,2024-11-14,toplantı,iş,21,akşam,1
+533,2024-11-15,ev düzenle,kişisel,7,sabah,0
+534,2024-11-15,gezinti,sosyal,11,sabah,1
+535,2024-11-15,kafe buluşma,sosyal,15,öğle,1
+536,2024-11-16,toplantı,iş,14,öğle,1
+537,2024-11-16,müşteri arama,iş,17,akşam,0
+538,2024-11-16,vardiya,iş,17,akşam,1
+539,2024-11-16,laboratuvar raporu,akademik,18,akşam,0
+540,2024-11-16,oyun oynama,eğlence,19,akşam,1
+541,2024-11-17,dinlenme,sağlık,9,sabah,0
+542,2024-11-17,banka işi,kişisel,10,sabah,1
+543,2024-11-17,market alisveris,kişisel,11,sabah,1
+544,2024-11-17,mini oyun,eğlence,12,öğle,1
+545,2024-11-17,kısa yürüyüş,mola,12,öğle,0
+546,2024-11-17,kısa yürüyüş,mola,13,öğle,1
+547,2024-11-17,doğum günü,sosyal,14,öğle,0
+548,2024-11-17,kafe buluşma,sosyal,14,öğle,1
+549,2024-11-17,oda temizlik,kişisel,15,öğle,0
+550,2024-11-17,kısa yürüyüş,mola,15,öğle,1
+551,2024-11-17,video izle,eğlence,17,akşam,1
+552,2024-11-18,ders çalış,akademik,10,sabah,0
+553,2024-11-18,laboratuvar raporu,akademik,11,sabah,0
+554,2024-11-18,ev düzenle,kişisel,12,öğle,1
+555,2024-11-18,fatura öden,kişisel,12,öğle,1
+556,2024-11-18,salon antrenmanı,spor,18,akşam,1
+557,2024-11-19,nefes egzersizi,mola,8,sabah,1
+558,2024-11-19,kısa yürüyüş,mola,10,sabah,1
+559,2024-11-19,staj görevi,iş,13,öğle,1
+560,2024-11-19,fatura öden,kişisel,13,öğle,0
+561,2024-11-19,laboratuvar raporu,akademik,15,öğle,1
+562,2024-11-19,proje teslim,akademik,16,öğle,1
+563,2024-11-19,kulüp etkinliği,sosyal,18,akşam,0
+564,2024-11-20,laboratuvar raporu,akademik,7,sabah,0
+565,2024-11-20,market alisveris,kişisel,11,sabah,1
+566,2024-11-20,mini oyun,eğlence,13,öğle,1
+567,2024-11-20,gezinti,sosyal,13,öğle,0
+568,2024-11-20,vardiya,iş,15,öğle,1
+569,2024-11-20,okuma ödev,akademik,16,öğle,0
+570,2024-11-20,ders çalış,akademik,17,akşam,0
+571,2024-11-20,planlama toplantısı,iş,18,akşam,1
+572,2024-11-20,çay molası,mola,18,akşam,1
+573,2024-11-20,yürüyüş,spor,21,akşam,1
+574,2024-11-21,proje teslim,akademik,9,sabah,0
+575,2024-11-21,yürüyüş,spor,12,öğle,1
+576,2024-11-21,vardiya,iş,15,öğle,1
+577,2024-11-21,bisiklet,spor,18,akşam,1
+578,2024-11-21,kampüs etkinlik,sosyal,19,akşam,0
+579,2024-11-22,toplantı,iş,8,sabah,1
+580,2024-11-22,yüzme,spor,8,sabah,1
+581,2024-11-22,not tekrar,akademik,10,sabah,0
+582,2024-11-22,okuma ödev,akademik,11,sabah,0
+583,2024-11-22,kontrol,sağlık,11,sabah,0
+584,2024-11-22,kütüphane,akademik,13,öğle,1
+585,2024-11-22,rapor gönder,iş,15,öğle,1
+586,2024-11-22,dizi izle,eğlence,16,öğle,1
+587,2024-11-22,fatura öden,kişisel,16,öğle,1
+588,2024-11-22,mini oyun,eğlence,18,akşam,1
+589,2024-11-22,kampüs etkinlik,sosyal,19,akşam,1
+590,2024-11-22,çay molası,mola,20,akşam,1
+591,2024-11-23,not tekrar,akademik,8,sabah,0
+592,2024-11-23,yüzme,spor,10,sabah,1
+593,2024-11-23,kafe molası,mola,14,öğle,1
+594,2024-11-23,rapor gönder,iş,15,öğle,1
+595,2024-11-23,kısa mola,mola,16,öğle,0
+596,2024-11-23,vitamin al,sağlık,17,akşam,1
+597,2024-11-23,müşteri arama,iş,18,akşam,1
+598,2024-11-23,dolap toplama,kişisel,21,akşam,1
+599,2024-11-24,müşteri arama,iş,10,sabah,1
+600,2024-11-24,film gecesi,sosyal,16,öğle,0
+601,2024-11-24,ders çalış,akademik,18,akşam,1
+602,2024-11-24,esneme,spor,19,akşam,1
+603,2024-11-24,proje teslim,akademik,22,gece,0
+604,2024-11-25,okuma ödev,akademik,14,öğle,1
+605,2024-11-25,vardiya,iş,16,öğle,1
+606,2024-11-25,evrak düzenle,kişisel,17,akşam,0
+607,2024-11-25,yürüyüş,spor,19,akşam,1
+608,2024-11-26,film gecesi,sosyal,7,sabah,0
+609,2024-11-26,not tekrar,akademik,10,sabah,0
+610,2024-11-26,dizi izle,eğlence,15,öğle,0
+611,2024-11-26,rapor gönder,iş,16,öğle,1
+612,2024-11-26,koşu,spor,17,akşam,1
+613,2024-11-26,doktor randevu,sağlık,19,akşam,0
+614,2024-11-27,staj görevi,iş,13,öğle,0
+615,2024-11-27,sosyal medya,eğlence,14,öğle,1
+616,2024-11-27,sohbet,sosyal,14,öğle,1
+617,2024-11-27,sohbet,sosyal,15,öğle,0
+618,2024-11-27,toplantı,iş,16,öğle,0
+619,2024-11-27,esneme,spor,18,akşam,0
+620,2024-11-27,koşu,spor,21,akşam,1
+621,2024-11-28,mini oyun,eğlence,7,sabah,1
+622,2024-11-28,arkadaşlarla buluş,sosyal,10,sabah,1
+623,2024-11-28,okuma ödev,akademik,11,sabah,0
+624,2024-11-28,laboratuvar raporu,akademik,12,öğle,0
+625,2024-11-28,doküman güncelle,iş,12,öğle,1
+626,2024-11-28,dolap toplama,kişisel,12,öğle,0
+627,2024-11-28,sunum hazırla,akademik,14,öğle,1
+628,2024-11-28,vardiya,iş,15,öğle,0
+629,2024-11-28,ev düzenle,kişisel,15,öğle,0
+630,2024-11-28,not tekrar,akademik,18,akşam,0
+631,2024-11-28,koşu,spor,18,akşam,1
+632,2024-11-28,vitamin al,sağlık,21,akşam,0
+633,2024-11-29,ev düzenle,kişisel,12,öğle,1
+634,2024-11-29,müzik dinle,eğlence,14,öğle,1
+635,2024-11-29,antrenman,spor,16,öğle,1
+636,2024-11-29,sınav hazırlık,akademik,19,akşam,0
+637,2024-11-30,ilaç al,sağlık,10,sabah,0
+638,2024-11-30,salon antrenmanı,spor,10,sabah,0
+639,2024-11-30,rapor gönder,iş,16,öğle,0
+640,2024-12-01,gezinti,sosyal,8,sabah,1
+641,2024-12-01,ders çalış,akademik,11,sabah,1
+642,2024-12-01,market alisveris,kişisel,11,sabah,0
+643,2024-12-01,ev düzenle,kişisel,14,öğle,1
+644,2024-12-01,sınav hazırlık,akademik,15,öğle,1
+645,2024-12-01,not tekrar,akademik,15,öğle,0
+646,2024-12-01,yürüyüş,spor,20,akşam,1
+647,2024-12-02,kütüphane,akademik,8,sabah,0
+648,2024-12-02,sınav hazırlık,akademik,12,öğle,1
+649,2024-12-02,market alisveris,kişisel,14,öğle,1
+650,2024-12-02,yoga,spor,14,öğle,1
+651,2024-12-02,dinlenme,sağlık,15,öğle,0
+652,2024-12-02,yüzme,spor,15,öğle,0
+653,2024-12-02,okuma ödev,akademik,16,öğle,1
+654,2024-12-03,okuma ödev,akademik,10,sabah,1
+655,2024-12-03,vitamin al,sağlık,13,öğle,0
+656,2024-12-03,gezinti,sosyal,13,öğle,1
+657,2024-12-03,kütüphane,akademik,18,akşam,1
+658,2024-12-03,salon antrenmanı,spor,18,akşam,1
+659,2024-12-03,kulüp etkinliği,sosyal,21,akşam,1
+660,2024-12-04,toplantı,iş,9,sabah,1
+661,2024-12-04,okuma ödev,akademik,10,sabah,1
+662,2024-12-04,kısa yürüyüş,mola,11,sabah,1
+663,2024-12-04,kampüs etkinlik,sosyal,11,sabah,1
+664,2024-12-04,gezinti,sosyal,11,sabah,1
+665,2024-12-04,sınav hazırlık,akademik,15,öğle,1
+666,2024-12-04,proje teslim,akademik,15,öğle,0
+667,2024-12-04,antrenman,spor,15,öğle,1
+668,2024-12-04,nefes egzersizi,mola,17,akşam,1
+669,2024-12-04,fatura öden,kişisel,19,akşam,0
+670,2024-12-05,sınav hazırlık,akademik,13,öğle,1
+671,2024-12-05,kütüphane,akademik,14,öğle,0
+672,2024-12-05,not tekrar,akademik,14,öğle,1
+673,2024-12-05,rapor gönder,iş,17,akşam,0
+674,2024-12-05,kafe buluşma,sosyal,17,akşam,0
+675,2024-12-06,film gecesi,sosyal,8,sabah,1
+676,2024-12-06,nefes egzersizi,mola,9,sabah,0
+677,2024-12-06,banka işi,kişisel,11,sabah,0
+678,2024-12-06,sunum hazırla,akademik,18,akşam,0
+679,2024-12-06,esneme,spor,19,akşam,1
+680,2024-12-06,çamaşır yıka,kişisel,21,akşam,0
+681,2024-12-07,planlama toplantısı,iş,11,sabah,1
+682,2024-12-07,market alisveris,kişisel,11,sabah,1
+683,2024-12-07,sohbet,sosyal,11,sabah,1
+684,2024-12-07,kampüs etkinlik,sosyal,14,öğle,1
+685,2024-12-07,dolap toplama,kişisel,15,öğle,0
+686,2024-12-07,dinlenme,sağlık,15,öğle,1
+687,2024-12-07,yoga,spor,15,öğle,1
+688,2024-12-08,oda temizlik,kişisel,12,öğle,1
+689,2024-12-08,oda temizlik,kişisel,13,öğle,0
+690,2024-12-08,not tekrar,akademik,15,öğle,1
+691,2024-12-08,sohbet,sosyal,15,öğle,1
+692,2024-12-09,rapor gönder,iş,9,sabah,0
+693,2024-12-09,gezinti,sosyal,11,sabah,1
+694,2024-12-09,ev düzenle,kişisel,12,öğle,1
+695,2024-12-09,kampüs etkinlik,sosyal,13,öğle,1
+696,2024-12-09,market alisveris,kişisel,14,öğle,0
+697,2024-12-09,arkadaşlarla buluş,sosyal,14,öğle,1
+698,2024-12-09,ders çalış,akademik,15,öğle,1
+699,2024-12-09,dizi izle,eğlence,15,öğle,1
+700,2024-12-09,evrak düzenle,kişisel,15,öğle,1
+701,2024-12-09,sunum hazırla,akademik,16,öğle,1
+702,2024-12-10,yürüyüş,spor,11,sabah,1
+703,2024-12-10,kısa mola,mola,16,öğle,1
+704,2024-12-10,doğum günü,sosyal,19,akşam,1
+705,2024-12-11,yürüyüş,spor,8,sabah,1
+706,2024-12-11,çamaşır yıka,kişisel,9,sabah,1
+707,2024-12-11,not tekrar,akademik,10,sabah,1
+708,2024-12-11,rapor gönder,iş,10,sabah,1
+709,2024-12-11,video izle,eğlence,11,sabah,1
+710,2024-12-11,müşteri arama,iş,12,öğle,0
+711,2024-12-11,mini oyun,eğlence,13,öğle,1
+712,2024-12-11,mini oyun,eğlence,13,öğle,1
+713,2024-12-11,kısa yürüyüş,mola,14,öğle,1
+714,2024-12-11,arkadaşlarla buluş,sosyal,16,öğle,1
+715,2024-12-11,proje teslim,akademik,19,akşam,1
+716,2024-12-11,doktor randevu,sağlık,20,akşam,0
+717,2024-12-12,sohbet,sosyal,8,sabah,1
+718,2024-12-12,erken uyku,sağlık,11,sabah,0
+719,2024-12-12,sınav hazırlık,akademik,12,öğle,1
+720,2024-12-12,kontrol,sağlık,22,gece,0
+721,2024-12-13,doküman güncelle,iş,8,sabah,0
+722,2024-12-13,ödev bitir,akademik,11,sabah,0
+723,2024-12-13,okuma ödev,akademik,12,öğle,1
+724,2024-12-13,esneme,spor,14,öğle,1
+725,2024-12-13,eposta cevapla,iş,15,öğle,1
+726,2024-12-13,gezinti,sosyal,16,öğle,1
+727,2024-12-13,ders çalış,akademik,17,akşam,1
+728,2024-12-13,su iç,sağlık,19,akşam,0
+729,2024-12-13,okuma ödev,akademik,20,akşam,0
+730,2024-12-13,yürüyüş,spor,22,gece,0
+731,2024-12-14,çamaşır yıka,kişisel,6,sabah,0
+732,2024-12-14,okuma ödev,akademik,10,sabah,0
+733,2024-12-14,mini oyun,eğlence,10,sabah,1
+734,2024-12-14,proje teslim,akademik,11,sabah,1
+735,2024-12-14,kampüs etkinlik,sosyal,11,sabah,1
+736,2024-12-14,dolap toplama,kişisel,12,öğle,1
+737,2024-12-14,not tekrar,akademik,14,öğle,1
+738,2024-12-14,video izle,eğlence,15,öğle,1
+739,2024-12-14,ödev bitir,akademik,17,akşam,0
+740,2024-12-15,yoga,spor,10,sabah,1
+741,2024-12-15,bisiklet,spor,11,sabah,1
+742,2024-12-15,laboratuvar raporu,akademik,16,öğle,1
+743,2024-12-15,vardiya,iş,16,öğle,1
+744,2024-12-15,müşteri arama,iş,16,öğle,0
+745,2024-12-15,sohbet,sosyal,16,öğle,0
+746,2024-12-15,nefes egzersizi,mola,17,akşam,0
+747,2024-12-15,market alisveris,kişisel,18,akşam,1
+748,2024-12-15,dinlenme,sağlık,18,akşam,0
+749,2024-12-15,okuma ödev,akademik,20,akşam,0
+750,2024-12-15,evrak düzenle,kişisel,20,akşam,1
+751,2024-12-15,doğum günü,sosyal,23,gece,0
+752,2024-12-16,kafe molası,mola,12,öğle,0
+753,2024-12-16,doküman güncelle,iş,13,öğle,0
+754,2024-12-16,oda temizlik,kişisel,16,öğle,1
+755,2024-12-16,yoga,spor,21,akşam,1
+756,2024-12-17,laboratuvar raporu,akademik,10,sabah,0
+757,2024-12-17,kütüphane,akademik,10,sabah,1
+758,2024-12-17,esneme,spor,10,sabah,1
+759,2024-12-17,kütüphane,akademik,11,sabah,0
+760,2024-12-17,okuma ödev,akademik,13,öğle,0
+761,2024-12-17,okuma ödev,akademik,16,öğle,1
+762,2024-12-17,sosyal medya,eğlence,17,akşam,1
+763,2024-12-18,çamaşır yıka,kişisel,11,sabah,1
+764,2024-12-18,doktor randevu,sağlık,11,sabah,1
+765,2024-12-18,market alisveris,kişisel,15,öğle,1
+766,2024-12-18,gezinti,sosyal,15,öğle,1
+767,2024-12-18,bisiklet,spor,15,öğle,0
+768,2024-12-18,ödev bitir,akademik,16,öğle,1
+769,2024-12-18,laboratuvar raporu,akademik,16,öğle,0
+770,2024-12-19,dolap toplama,kişisel,10,sabah,0
+771,2024-12-19,çay molası,mola,12,öğle,1
+772,2024-12-19,doktor randevu,sağlık,13,öğle,1
+773,2024-12-19,kampüs etkinlik,sosyal,18,akşam,1
+774,2024-12-19,not tekrar,akademik,19,akşam,1
+775,2024-12-20,doktor randevu,sağlık,10,sabah,1
+776,2024-12-20,antrenman,spor,10,sabah,1
+777,2024-12-20,arkadaşlarla buluş,sosyal,14,öğle,0
+778,2024-12-20,antrenman,spor,17,akşam,0
+779,2024-12-20,film gecesi,sosyal,18,akşam,1
+780,2024-12-21,sosyal medya,eğlence,8,sabah,1
+781,2024-12-21,sınav hazırlık,akademik,10,sabah,1
+782,2024-12-21,antrenman,spor,12,öğle,0
+783,2024-12-21,proje teslim,akademik,16,öğle,0
+784,2024-12-22,kısa mola,mola,7,sabah,1
+785,2024-12-22,sınav hazırlık,akademik,11,sabah,1
+786,2024-12-22,ödev bitir,akademik,11,sabah,0
+787,2024-12-22,proje teslim,akademik,13,öğle,0
+788,2024-12-22,kulüp etkinliği,sosyal,13,öğle,0
+789,2024-12-22,çay molası,mola,14,öğle,1
+790,2024-12-22,çamaşır yıka,kişisel,15,öğle,1
+791,2024-12-22,banka işi,kişisel,15,öğle,1
+792,2024-12-22,bisiklet,spor,15,öğle,1
+793,2024-12-22,nefes egzersizi,mola,16,öğle,1
+794,2024-12-22,yüzme,spor,18,akşam,1
+795,2024-12-23,kütüphane,akademik,6,sabah,0
+796,2024-12-23,eposta cevapla,iş,9,sabah,1
+797,2024-12-23,ödev bitir,akademik,11,sabah,1
+798,2024-12-23,planlama toplantısı,iş,11,sabah,0
+799,2024-12-23,kontrol,sağlık,13,öğle,0
+800,2024-12-23,proje teslim,akademik,16,öğle,1
+801,2024-12-24,çay molası,mola,14,öğle,0
+802,2024-12-24,toplantı,iş,15,öğle,1
+803,2024-12-24,evrak düzenle,kişisel,16,öğle,0
+804,2024-12-24,kafe buluşma,sosyal,16,öğle,1
+805,2024-12-24,kafe buluşma,sosyal,20,akşam,1
+806,2024-12-24,not tekrar,akademik,21,akşam,0
+807,2024-12-25,salon antrenmanı,spor,9,sabah,1
+808,2024-12-25,ders çalış,akademik,15,öğle,1
+809,2024-12-25,yürüyüş,spor,16,öğle,0
+810,2024-12-25,eposta cevapla,iş,17,akşam,1
+811,2024-12-25,kulüp etkinliği,sosyal,17,akşam,1
+812,2024-12-25,not tekrar,akademik,19,akşam,0
+813,2024-12-26,toplantı,iş,10,sabah,1
+814,2024-12-26,esneme,spor,10,sabah,1
+815,2024-12-26,ev düzenle,kişisel,12,öğle,0
+816,2024-12-26,proje teslim,akademik,15,öğle,1
+817,2024-12-26,çamaşır yıka,kişisel,15,öğle,0
+818,2024-12-26,esneme,spor,15,öğle,0
+819,2024-12-26,ev düzenle,kişisel,16,öğle,0
+820,2024-12-26,yoga,spor,16,öğle,0
+821,2024-12-26,doküman güncelle,iş,17,akşam,1
+822,2024-12-26,bisiklet,spor,17,akşam,1
+823,2024-12-26,eposta cevapla,iş,18,akşam,1
+824,2024-12-26,salon antrenmanı,spor,18,akşam,1
+825,2024-12-27,dinlenme,sağlık,9,sabah,1
+826,2024-12-27,sunum hazırla,akademik,10,sabah,1
+827,2024-12-27,doküman güncelle,iş,10,sabah,1
+828,2024-12-27,bisiklet,spor,10,sabah,1
+829,2024-12-27,sunum hazırla,akademik,12,öğle,0
+830,2024-12-27,ders çalış,akademik,16,öğle,0
+831,2024-12-27,doktor randevu,sağlık,18,akşam,0
+832,2024-12-28,sınav hazırlık,akademik,10,sabah,0
+833,2024-12-28,kısa mola,mola,10,sabah,1
+834,2024-12-28,yüzme,spor,11,sabah,0
+835,2024-12-28,doktor randevu,sağlık,12,öğle,1
+836,2024-12-28,gezinti,sosyal,12,öğle,1
+837,2024-12-28,toplantı,iş,15,öğle,1
+838,2024-12-28,kulüp etkinliği,sosyal,15,öğle,1
+839,2024-12-28,sınav hazırlık,akademik,16,öğle,1
+840,2024-12-28,kısa mola,mola,16,öğle,0
+841,2024-12-28,ders çalış,akademik,17,akşam,0
+842,2024-12-29,oda temizlik,kişisel,9,sabah,0
+843,2024-12-29,koşu,spor,11,sabah,1
+844,2024-12-29,ödev bitir,akademik,14,öğle,0
+845,2024-12-29,ev düzenle,kişisel,15,öğle,0
+846,2024-12-29,salon antrenmanı,spor,18,akşam,1
+847,2024-12-29,koşu,spor,19,akşam,0
+848,2024-12-29,kampüs etkinlik,sosyal,20,akşam,1
+849,2024-12-30,not tekrar,akademik,10,sabah,1
+850,2024-12-30,evrak düzenle,kişisel,10,sabah,1
+851,2024-12-30,okuma ödev,akademik,11,sabah,1
+852,2024-12-30,kütüphane,akademik,11,sabah,0
+853,2024-12-30,doktor randevu,sağlık,11,sabah,1
+854,2024-12-30,market alisveris,kişisel,12,öğle,1
+855,2024-12-30,eposta cevapla,iş,14,öğle,1
+856,2024-12-30,evrak düzenle,kişisel,16,öğle,1
+857,2024-12-30,ilaç al,sağlık,16,öğle,1
+858,2024-12-30,film gecesi,sosyal,16,öğle,1
+859,2024-12-30,eposta cevapla,iş,18,akşam,0
+860,2024-12-30,kafe buluşma,sosyal,19,akşam,0
+861,2024-12-30,ödev bitir,akademik,23,gece,1
+862,2024-12-31,sunum hazırla,akademik,10,sabah,1
+863,2024-12-31,okuma ödev,akademik,13,öğle,1
+864,2024-12-31,vitamin al,sağlık,13,öğle,0
+865,2024-12-31,ödev bitir,akademik,15,öğle,0
+866,2024-12-31,kahve ic,mola,16,öğle,0
+867,2024-12-31,market alisveris,kişisel,17,akşam,0
+868,2024-12-31,kampüs etkinlik,sosyal,17,akşam,0
+869,2024-12-31,fatura öden,kişisel,20,akşam,0
+870,2025-01-01,salon antrenmanı,spor,10,sabah,1
+871,2025-01-01,proje teslim,akademik,14,öğle,0
+872,2025-01-01,dizi izle,eğlence,14,öğle,1
+873,2025-01-01,salon antrenmanı,spor,16,öğle,1
+874,2025-01-01,gezinti,sosyal,17,akşam,1
+875,2025-01-01,sohbet,sosyal,17,akşam,1
+876,2025-01-01,ödev bitir,akademik,20,akşam,0
+877,2025-01-02,su iç,sağlık,10,sabah,1
+878,2025-01-02,kulüp etkinliği,sosyal,12,öğle,1
+879,2025-01-02,staj görevi,iş,13,öğle,1
+880,2025-01-02,sunum hazırla,akademik,15,öğle,0
+881,2025-01-02,oyun oynama,eğlence,15,öğle,1
+882,2025-01-02,kampüs etkinlik,sosyal,16,öğle,1
+883,2025-01-02,nefes egzersizi,mola,18,akşam,0
+884,2025-01-02,dinlenme,sağlık,21,akşam,0
+885,2025-01-03,bisiklet,spor,10,sabah,1
+886,2025-01-03,not tekrar,akademik,13,öğle,0
+887,2025-01-03,film gecesi,sosyal,16,öğle,1
+888,2025-01-03,sohbet,sosyal,16,öğle,1
+889,2025-01-03,laboratuvar raporu,akademik,17,akşam,1
+890,2025-01-03,kahve ic,mola,21,akşam,0
+891,2025-01-03,sosyal medya,eğlence,23,gece,1
+892,2025-01-03,doküman güncelle,iş,23,gece,0
+893,2025-01-04,çamaşır yıka,kişisel,10,sabah,0
+894,2025-01-04,oda temizlik,kişisel,19,akşam,0
+895,2025-01-04,doktor randevu,sağlık,19,akşam,0
+896,2025-01-04,yüzme,spor,20,akşam,1
+897,2025-01-04,çay molası,mola,22,gece,0
+898,2025-01-05,çamaşır yıka,kişisel,8,sabah,1
+899,2025-01-05,gezinti,sosyal,11,sabah,1
+900,2025-01-05,planlama toplantısı,iş,16,öğle,0
+901,2025-01-05,fatura öden,kişisel,17,akşam,0
+902,2025-01-05,dizi izle,eğlence,18,akşam,1
+903,2025-01-05,kütüphane,akademik,20,akşam,1
+904,2025-01-05,dolap toplama,kişisel,21,akşam,0
+905,2025-01-06,ödev bitir,akademik,10,sabah,1
+906,2025-01-06,laboratuvar raporu,akademik,15,öğle,1
+907,2025-01-06,ödev bitir,akademik,16,öğle,1
+908,2025-01-06,arkadaşlarla buluş,sosyal,16,öğle,0
+909,2025-01-06,dizi izle,eğlence,17,akşam,1
+910,2025-01-06,salon antrenmanı,spor,21,akşam,1
+911,2025-01-06,sınav hazırlık,akademik,23,gece,0
+912,2025-01-07,kütüphane,akademik,6,sabah,0
+913,2025-01-07,oda temizlik,kişisel,10,sabah,0
+914,2025-01-07,esneme,spor,10,sabah,1
+915,2025-01-07,sohbet,sosyal,11,sabah,1
+916,2025-01-07,banka işi,kişisel,16,öğle,1
+917,2025-01-07,yürüyüş,spor,19,akşam,1
+918,2025-01-08,kafe buluşma,sosyal,7,sabah,0
+919,2025-01-08,ödev bitir,akademik,9,sabah,0
+920,2025-01-08,rapor gönder,iş,9,sabah,1
+921,2025-01-08,banka işi,kişisel,11,sabah,1
+922,2025-01-08,gezinti,sosyal,11,sabah,1
+923,2025-01-08,kafe buluşma,sosyal,15,öğle,1
+924,2025-01-08,vitamin al,sağlık,16,öğle,1
+925,2025-01-08,doğum günü,sosyal,16,öğle,0
+926,2025-01-08,doğum günü,sosyal,19,akşam,0
+927,2025-01-09,fatura öden,kişisel,10,sabah,0
+928,2025-01-09,kulüp etkinliği,sosyal,10,sabah,1
+929,2025-01-09,kafe molası,mola,13,öğle,0
+930,2025-01-09,kafe buluşma,sosyal,13,öğle,1
+931,2025-01-09,antrenman,spor,13,öğle,1
+932,2025-01-09,nefes egzersizi,mola,16,öğle,1
+933,2025-01-09,sınav hazırlık,akademik,20,akşam,0
+934,2025-01-10,ev düzenle,kişisel,8,sabah,0
+935,2025-01-10,okuma ödev,akademik,10,sabah,1
+936,2025-01-10,ödev bitir,akademik,11,sabah,0
+937,2025-01-10,dolap toplama,kişisel,11,sabah,1
+938,2025-01-10,ilaç al,sağlık,15,öğle,1
+939,2025-01-10,market alisveris,kişisel,19,akşam,0
+940,2025-01-11,video izle,eğlence,8,sabah,0
+941,2025-01-11,kahve ic,mola,9,sabah,1
+942,2025-01-11,ilaç al,sağlık,9,sabah,1
+943,2025-01-11,toplantı,iş,18,akşam,1
+944,2025-01-11,okuma ödev,akademik,20,akşam,0
+945,2025-01-12,mini oyun,eğlence,9,sabah,1
+946,2025-01-12,vardiya,iş,10,sabah,0
+947,2025-01-12,kulüp etkinliği,sosyal,12,öğle,1
+948,2025-01-12,ödev bitir,akademik,14,öğle,1
+949,2025-01-12,toplantı,iş,15,öğle,1
+950,2025-01-12,market alisveris,kişisel,15,öğle,1
+951,2025-01-12,proje teslim,akademik,20,akşam,0
+952,2025-01-12,doktor randevu,sağlık,20,akşam,0
+953,2025-01-13,arkadaşlarla buluş,sosyal,11,sabah,1
+954,2025-01-13,sınav hazırlık,akademik,13,öğle,1
+955,2025-01-13,doğum günü,sosyal,13,öğle,1
+956,2025-01-13,oda temizlik,kişisel,15,öğle,0
+957,2025-01-13,oda temizlik,kişisel,15,öğle,0
+958,2025-01-13,gezinti,sosyal,16,öğle,1
+959,2025-01-13,kontrol,sağlık,17,akşam,1
+960,2025-01-13,salon antrenmanı,spor,17,akşam,1
+961,2025-01-13,kulüp etkinliği,sosyal,20,akşam,0
+962,2025-01-13,ödev bitir,akademik,21,akşam,0
+963,2025-01-13,sohbet,sosyal,23,gece,1
+964,2025-01-14,market alisveris,kişisel,11,sabah,1
+965,2025-01-14,ödev bitir,akademik,14,öğle,1
+966,2025-01-14,arkadaşlarla buluş,sosyal,14,öğle,1
+967,2025-01-14,ödev bitir,akademik,15,öğle,0
+968,2025-01-14,rapor gönder,iş,18,akşam,1
+969,2025-01-14,ev düzenle,kişisel,20,akşam,0
+970,2025-01-14,koşu,spor,21,akşam,0
+971,2025-01-14,proje teslim,akademik,22,gece,0
+972,2025-01-15,ilaç al,sağlık,8,sabah,1
+973,2025-01-15,sosyal medya,eğlence,11,sabah,1
+974,2025-01-15,planlama toplantısı,iş,14,öğle,1
+975,2025-01-15,kütüphane,akademik,16,öğle,0
+976,2025-01-15,gezinti,sosyal,16,öğle,1
+977,2025-01-15,dinlenme,sağlık,18,akşam,1
+978,2025-01-15,ders çalış,akademik,19,akşam,0
+979,2025-01-15,erken uyku,sağlık,20,akşam,1
+980,2025-01-16,sunum hazırla,akademik,11,sabah,1
+981,2025-01-16,su iç,sağlık,16,öğle,1
+982,2025-01-16,esneme,spor,16,öğle,1
+983,2025-01-16,esneme,spor,18,akşam,1
+984,2025-01-16,sunum hazırla,akademik,20,akşam,1
+985,2025-01-17,dinlenme,sağlık,6,sabah,0
+986,2025-01-17,okuma ödev,akademik,10,sabah,1
+987,2025-01-17,sunum hazırla,akademik,13,öğle,0
+988,2025-01-17,müşteri arama,iş,13,öğle,1
+989,2025-01-17,gezinti,sosyal,15,öğle,1
+990,2025-01-17,salon antrenmanı,spor,17,akşam,1
+991,2025-01-17,ev düzenle,kişisel,18,akşam,0
+992,2025-01-17,su iç,sağlık,18,akşam,1
+993,2025-01-17,sohbet,sosyal,20,akşam,1
+994,2025-01-18,salon antrenmanı,spor,14,öğle,0
+995,2025-01-18,laboratuvar raporu,akademik,15,öğle,1
+996,2025-01-18,mini oyun,eğlence,18,akşam,1
+997,2025-01-18,sunum hazırla,akademik,19,akşam,1
+998,2025-01-18,rapor gönder,iş,19,akşam,1
+999,2025-01-19,esneme,spor,9,sabah,1
+1000,2025-01-19,vardiya,iş,10,sabah,1
+1001,2025-01-19,dolap toplama,kişisel,11,sabah,1
+1002,2025-01-19,yoga,spor,12,öğle,1
+1003,2025-01-19,ders çalış,akademik,15,öğle,1
+1004,2025-01-19,market alisveris,kişisel,15,öğle,1
+1005,2025-01-19,banka işi,kişisel,17,akşam,0
+1006,2025-01-19,müşteri arama,iş,18,akşam,1
+1007,2025-01-19,sınav hazırlık,akademik,20,akşam,1
+1008,2025-01-19,vitamin al,sağlık,21,akşam,0
+1009,2025-01-20,ders çalış,akademik,9,sabah,1
+1010,2025-01-20,müşteri arama,iş,13,öğle,1
+1011,2025-01-20,sohbet,sosyal,13,öğle,1
+1012,2025-01-20,kontrol,sağlık,14,öğle,1
+1013,2025-01-20,gezinti,sosyal,14,öğle,0
+1014,2025-01-20,laboratuvar raporu,akademik,15,öğle,0
+1015,2025-01-20,bisiklet,spor,16,öğle,0
+1016,2025-01-20,bisiklet,spor,21,akşam,1
+1017,2025-01-21,kütüphane,akademik,8,sabah,1
+1018,2025-01-21,kafe molası,mola,9,sabah,1
+1019,2025-01-21,sunum hazırla,akademik,15,öğle,0
+1020,2025-01-21,kontrol,sağlık,15,öğle,1
+1021,2025-01-21,sunum hazırla,akademik,16,öğle,1
+1022,2025-01-21,kafe buluşma,sosyal,16,öğle,0
+1023,2025-01-21,vitamin al,sağlık,18,akşam,0
+1024,2025-01-21,yüzme,spor,19,akşam,1
+1025,2025-01-21,kısa mola,mola,20,akşam,1
+1026,2025-01-21,proje teslim,akademik,21,akşam,0
+1027,2025-01-21,yürüyüş,spor,23,gece,0
+1028,2025-01-22,ev düzenle,kişisel,11,sabah,0
+1029,2025-01-22,esneme,spor,11,sabah,0
+1030,2025-01-22,salon antrenmanı,spor,12,öğle,0
+1031,2025-01-22,laboratuvar raporu,akademik,13,öğle,0
+1032,2025-01-22,staj görevi,iş,13,öğle,1
+1033,2025-01-22,proje teslim,akademik,14,öğle,1
+1034,2025-01-22,doküman güncelle,iş,15,öğle,1
+1035,2025-01-22,dizi izle,eğlence,16,öğle,1
+1036,2025-01-22,kahve ic,mola,21,akşam,0
+1037,2025-01-23,not tekrar,akademik,10,sabah,0
+1038,2025-01-23,sohbet,sosyal,10,sabah,1
+1039,2025-01-23,esneme,spor,10,sabah,1
+1040,2025-01-23,müşteri arama,iş,12,öğle,0
+1041,2025-01-23,toplantı,iş,16,öğle,1
+1042,2025-01-23,evrak düzenle,kişisel,17,akşam,0
+1043,2025-01-23,okuma ödev,akademik,20,akşam,0
+1044,2025-01-23,çamaşır yıka,kişisel,20,akşam,0
+1045,2025-01-24,arkadaşlarla buluş,sosyal,8,sabah,1
+1046,2025-01-24,proje teslim,akademik,12,öğle,0
+1047,2025-01-24,dolap toplama,kişisel,12,öğle,1
+1048,2025-01-24,esneme,spor,12,öğle,0
+1049,2025-01-24,bisiklet,spor,13,öğle,1
+1050,2025-01-24,proje teslim,akademik,16,öğle,1
+1051,2025-01-24,market alisveris,kişisel,18,akşam,1
+1052,2025-01-25,arkadaşlarla buluş,sosyal,10,sabah,1
+1053,2025-01-25,arkadaşlarla buluş,sosyal,10,sabah,1
+1054,2025-01-25,laboratuvar raporu,akademik,12,öğle,1
+1055,2025-01-25,çay molası,mola,14,öğle,1
+1056,2025-01-25,oda temizlik,kişisel,15,öğle,1
+1057,2025-01-25,toplantı,iş,17,akşam,1
+1058,2025-01-25,ilaç al,sağlık,22,gece,0
+1059,2025-01-26,kütüphane,akademik,8,sabah,0
+1060,2025-01-26,kısa mola,mola,9,sabah,0
+1061,2025-01-26,ödev bitir,akademik,11,sabah,1
+1062,2025-01-26,mini oyun,eğlence,11,sabah,1
+1063,2025-01-26,kampüs etkinlik,sosyal,11,sabah,1
+1064,2025-01-26,salon antrenmanı,spor,13,öğle,1
+1065,2025-01-27,kafe buluşma,sosyal,10,sabah,0
+1066,2025-01-27,koşu,spor,21,akşam,1
+1067,2025-01-28,evrak düzenle,kişisel,9,sabah,0
+1068,2025-01-28,bisiklet,spor,10,sabah,1
+1069,2025-01-28,mini oyun,eğlence,14,öğle,1
+1070,2025-01-28,kütüphane,akademik,15,öğle,1
+1071,2025-01-28,müşteri arama,iş,15,öğle,1
+1072,2025-01-28,esneme,spor,15,öğle,1
+1073,2025-01-28,kulüp etkinliği,sosyal,16,öğle,1
+1074,2025-01-28,esneme,spor,17,akşam,1
+1075,2025-01-28,sunum hazırla,akademik,20,akşam,1
+1076,2025-01-29,planlama toplantısı,iş,13,öğle,1
+1077,2025-01-29,dinlenme,sağlık,13,öğle,1
+1078,2025-01-29,not tekrar,akademik,14,öğle,1
+1079,2025-01-29,film gecesi,sosyal,14,öğle,1
+1080,2025-01-29,film gecesi,sosyal,15,öğle,1
+1081,2025-01-29,doküman güncelle,iş,17,akşam,0
+1082,2025-01-29,laboratuvar raporu,akademik,18,akşam,0
+1083,2025-01-29,oyun oynama,eğlence,18,akşam,1
+1084,2025-01-29,kısa yürüyüş,mola,18,akşam,1
+1085,2025-01-29,kısa mola,mola,18,akşam,0
+1086,2025-01-29,film gecesi,sosyal,20,akşam,1
+1087,2025-01-30,yoga,spor,10,sabah,0
+1088,2025-01-30,ev düzenle,kişisel,11,sabah,0
+1089,2025-01-30,su iç,sağlık,14,öğle,1
+1090,2025-01-30,oda temizlik,kişisel,16,öğle,1
+1091,2025-01-30,dizi izle,eğlence,17,akşam,1
+1092,2025-01-30,ödev bitir,akademik,18,akşam,0
+1093,2025-01-30,oda temizlik,kişisel,18,akşam,0
+1094,2025-01-30,doğum günü,sosyal,19,akşam,1
+1095,2025-01-30,gezinti,sosyal,19,akşam,1
+1096,2025-01-31,nefes egzersizi,mola,8,sabah,1
+1097,2025-01-31,sohbet,sosyal,9,sabah,1
+1098,2025-01-31,doktor randevu,sağlık,11,sabah,0
+1099,2025-01-31,evrak düzenle,kişisel,13,öğle,0
+1100,2025-01-31,sunum hazırla,akademik,15,öğle,1
+1101,2025-01-31,ders çalış,akademik,15,öğle,1
+1102,2025-01-31,sosyal medya,eğlence,15,öğle,1
+1103,2025-01-31,kafe buluşma,sosyal,16,öğle,1
+1104,2025-01-31,sosyal medya,eğlence,17,akşam,1
+1105,2025-01-31,kahve ic,mola,17,akşam,1
+1106,2025-01-31,gezinti,sosyal,17,akşam,1
+1107,2025-01-31,bisiklet,spor,19,akşam,1
+1108,2025-02-02,kulüp etkinliği,sosyal,6,sabah,0
+1109,2025-02-02,toplantı,iş,9,sabah,1
+1110,2025-02-02,toplantı,iş,10,sabah,1
+1111,2025-02-02,okuma ödev,akademik,11,sabah,1
+1112,2025-02-02,esneme,spor,11,sabah,1
+1113,2025-02-02,salon antrenmanı,spor,12,öğle,1
+1114,2025-02-02,kampüs etkinlik,sosyal,13,öğle,0
+1115,2025-02-02,sunum hazırla,akademik,14,öğle,1
+1116,2025-02-02,sohbet,sosyal,14,öğle,0
+1117,2025-02-03,kütüphane,akademik,10,sabah,1
+1118,2025-02-03,sosyal medya,eğlence,11,sabah,1
+1119,2025-02-03,arkadaşlarla buluş,sosyal,12,öğle,0
+1120,2025-02-03,oda temizlik,kişisel,16,öğle,0
+1121,2025-02-03,salon antrenmanı,spor,17,akşam,1
+1122,2025-02-04,yüzme,spor,10,sabah,0
+1123,2025-02-04,bisiklet,spor,10,sabah,0
+1124,2025-02-04,müzik dinle,eğlence,11,sabah,1
+1125,2025-02-04,kafe buluşma,sosyal,13,öğle,0
+1126,2025-02-04,ders çalış,akademik,14,öğle,1
+1127,2025-02-04,video izle,eğlence,16,öğle,1
+1128,2025-02-04,kampüs etkinlik,sosyal,17,akşam,1
+1129,2025-02-04,salon antrenmanı,spor,17,akşam,1
+1130,2025-02-04,banka işi,kişisel,18,akşam,0
+1131,2025-02-04,gezinti,sosyal,21,akşam,0
+1132,2025-02-05,sınav hazırlık,akademik,9,sabah,1
+1133,2025-02-05,not tekrar,akademik,12,öğle,0
+1134,2025-02-05,koşu,spor,12,öğle,1
+1135,2025-02-05,proje teslim,akademik,13,öğle,0
+1136,2025-02-05,film gecesi,sosyal,15,öğle,1
+1137,2025-02-05,vitamin al,sağlık,16,öğle,0
+1138,2025-02-05,salon antrenmanı,spor,17,akşam,1
+1139,2025-02-05,vardiya,iş,20,akşam,0
+1140,2025-02-06,proje teslim,akademik,10,sabah,0
+1141,2025-02-06,laboratuvar raporu,akademik,10,sabah,1
+1142,2025-02-06,ders çalış,akademik,11,sabah,0
+1143,2025-02-06,salon antrenmanı,spor,11,sabah,1
+1144,2025-02-07,kütüphane,akademik,9,sabah,1
+1145,2025-02-07,vardiya,iş,10,sabah,1
+1146,2025-02-07,not tekrar,akademik,16,öğle,1
+1147,2025-02-07,erken uyku,sağlık,16,öğle,0
+1148,2025-02-08,esneme,spor,8,sabah,1
+1149,2025-02-08,yoga,spor,9,sabah,1
+1150,2025-02-08,oyun oynama,eğlence,12,öğle,1
+1151,2025-02-08,fatura öden,kişisel,12,öğle,0
+1152,2025-02-08,sınav hazırlık,akademik,14,öğle,1
+1153,2025-02-08,not tekrar,akademik,14,öğle,1
+1154,2025-02-08,çamaşır yıka,kişisel,16,öğle,0
+1155,2025-02-08,çamaşır yıka,kişisel,18,akşam,1
+1156,2025-02-08,salon antrenmanı,spor,18,akşam,1
+1157,2025-02-08,sunum hazırla,akademik,20,akşam,0
+1158,2025-02-09,market alisveris,kişisel,15,öğle,1
+1159,2025-02-09,sınav hazırlık,akademik,18,akşam,1
+1160,2025-02-09,film gecesi,sosyal,19,akşam,0
+1161,2025-02-10,vitamin al,sağlık,9,sabah,0
+1162,2025-02-10,dolap toplama,kişisel,10,sabah,0
+1163,2025-02-10,mini oyun,eğlence,12,öğle,1
+1164,2025-02-10,sohbet,sosyal,14,öğle,1
+1165,2025-02-10,ders çalış,akademik,17,akşam,0
+1166,2025-02-10,banka işi,kişisel,17,akşam,1
+1167,2025-02-10,kahve ic,mola,19,akşam,1
+1168,2025-02-11,antrenman,spor,6,sabah,0
+1169,2025-02-11,kontrol,sağlık,8,sabah,1
+1170,2025-02-11,müşteri arama,iş,10,sabah,1
+1171,2025-02-11,oyun oynama,eğlence,11,sabah,1
+1172,2025-02-11,koşu,spor,14,öğle,1
+1173,2025-02-11,dolap toplama,kişisel,16,öğle,0
+1174,2025-02-11,dolap toplama,kişisel,17,akşam,1
+1175,2025-02-11,film gecesi,sosyal,20,akşam,1
+1176,2025-02-12,doğum günü,sosyal,9,sabah,0
+1177,2025-02-12,kısa mola,mola,10,sabah,0
+1178,2025-02-12,kontrol,sağlık,11,sabah,1
+1179,2025-02-12,video izle,eğlence,13,öğle,1
+1180,2025-02-12,kütüphane,akademik,16,öğle,1
+1181,2025-02-13,kısa yürüyüş,mola,12,öğle,0
+1182,2025-02-13,kafe molası,mola,12,öğle,0
+1183,2025-02-13,kontrol,sağlık,12,öğle,1
+1184,2025-02-13,staj görevi,iş,14,öğle,1
+1185,2025-02-13,proje teslim,akademik,18,akşam,0
+1186,2025-02-13,film gecesi,sosyal,20,akşam,1
+1187,2025-02-14,evrak düzenle,kişisel,10,sabah,1
+1188,2025-02-14,kontrol,sağlık,12,öğle,0
+1189,2025-02-14,çamaşır yıka,kişisel,16,öğle,0
+1190,2025-02-14,dinlenme,sağlık,16,öğle,0
+1191,2025-02-14,müzik dinle,eğlence,18,akşam,1
+1192,2025-02-14,kahve ic,mola,19,akşam,1
+1193,2025-02-14,esneme,spor,19,akşam,0
+1194,2025-02-14,vitamin al,sağlık,20,akşam,1
+1195,2025-02-15,arkadaşlarla buluş,sosyal,12,öğle,1
+1196,2025-02-15,dolap toplama,kişisel,17,akşam,1
+1197,2025-02-15,staj görevi,iş,18,akşam,0
+1198,2025-02-15,banka işi,kişisel,19,akşam,1
+1199,2025-02-15,dizi izle,eğlence,20,akşam,0
+1200,2025-02-15,film gecesi,sosyal,20,akşam,1
